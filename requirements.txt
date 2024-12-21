@@ -1,0 +1,5 @@
+aiogram>=3.0.0a7
+aiohttp>=3.8.0
+beautifulsoup4>=4.11.1
+Pillow>=9.3.0
+python-dotenv>=0.21.0
