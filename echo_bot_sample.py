@@ -4,9 +4,6 @@ import asyncio
 import json
 import os
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-KINOPOISK_API_KEY = os.getenv("KINOPOISK_API_KEY")
-
 import scrappers
 
 from collections import Counter
